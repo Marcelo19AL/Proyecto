@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <h1> BIENVENIDOS PERROS</h1>
+        <h1> BIENVENIDOS</h1>
     </div>
 </body>
 </html>
